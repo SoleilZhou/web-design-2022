@@ -1,0 +1,9 @@
+util\DatabaseUtils.class
+controller\DetailServlet.class
+entity\Title.class
+controller\IndexServlet.class
+controller\NewsServlet.class
+entity\Teacher.class
+controller\TeachersServlet.class
+controller\DevelopmentServlet.class
+entity\News.class
